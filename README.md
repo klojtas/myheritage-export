@@ -33,7 +33,7 @@ Now you can load getcom to the program.
 
 #### wget won't work in WSL with VPN
 
-#### winodws path
+#### windows path
 
 to get the windows path
 
